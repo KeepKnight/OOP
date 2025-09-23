@@ -1,4 +1,0 @@
-/home/ivan/OOP/First/prog/..bild/CMakeFiles/OOP_main.dir
-/home/ivan/OOP/First/prog/..bild/CMakeFiles/OOP_test.dir
-/home/ivan/OOP/First/prog/..bild/CMakeFiles/edit_cache.dir
-/home/ivan/OOP/First/prog/..bild/CMakeFiles/rebuild_cache.dir
